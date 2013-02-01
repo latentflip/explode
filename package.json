@@ -1,0 +1,19 @@
+{
+    "name": "explode",
+    "description": "Tar exploding facility",
+    "version": "0.0.1",
+    "author": "Philip Roberts <phil@latentflip.com>",
+    "main": "explode.js",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/latentflip/explode.git"
+    },
+    "dependencies": {
+      "nomnom": "latest"
+    },
+    "bin": {
+      "explode": "./bin/explode.js",
+      "implode": "./bin/implode.js"
+    },
+    "keywords": ["tar"]
+}
