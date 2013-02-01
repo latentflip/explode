@@ -1,7 +1,9 @@
 # explode
-`explode` (and `implode`) are command line utilities for creating and opening `.tar`, `.tar.gz`, `.tar.bz2` directories. Because life is too short for `tar`.
+`explode` (and `implode`) are command line utilities for creating and opening `.tar`, `.tar.gz`, `.tar.bz2` directories. 
 
-![tar](http://xkcd.com/1168/)
+Because life is too short for `tar -zxvfjwtf??!!`.
+
+![tar](http://imgs.xkcd.com/comics/tar.png)
 
 # Install
 With [node.js](http://nodejs.org/) and [npm](http://github.com/isaacs/npm):
