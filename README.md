@@ -4,6 +4,7 @@
 Because life is too short for `tar -zxvfjwtf??!!`.
 
 ![tar](http://imgs.xkcd.com/comics/tar.png)
+Inspired by [@harthur](http://twitter.com/harthur) and http://xkcd.com/1168/
 
 # Install
 With [node.js](http://nodejs.org/) and [npm](http://github.com/isaacs/npm):
